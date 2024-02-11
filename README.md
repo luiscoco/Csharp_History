@@ -10,6 +10,12 @@ C# Reference Types: https://learn.microsoft.com/en-us/dotnet/csharp/language-ref
 
 C# Keyword: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
 
+C# Operators and expressions: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+
+C# Statements: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations
+
+C# 
+
 ## 1. C# Version 1.0
 
 C# version 1.0, released with Visual Studio .NET 2002
