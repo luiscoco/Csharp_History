@@ -202,7 +202,45 @@ The new language features in this release are:
 
 Finally, the compiler has two options -refout and -refonly that control reference assembly generation
 
+## 10. C# Version 7.2
 
+Released November, 2017
+
+C# 7.2 added several small language features:
+
+Initializers on **stackalloc** arrays.
+
+Use **fixed** statements with any type that supports a pattern.
+
+Access fixed fields without pinning.
+
+Reassign **ref** local variables.
+
+Declare **readonly struct** types, to indicate that a struct is immutable and should be passed as an in parameter to its member methods.
+
+Add the **in** modifier on parameters, to specify that an argument is passed by reference but not modified by the called method.
+
+Use the **ref readonly** modifier on method returns, to indicate that a method returns its value by reference but doesn't allow writes to that object.
+
+Declare **ref struct** types, to indicate that a struct type accesses managed memory directly and must always be stack allocated.
+
+Use additional generic constraints.
+
+**Non-trailing named arguments**
+
+Named arguments can be followed by positional arguments.
+
+Leading **underscores** in numeric literals
+
+Numeric literals can now have leading underscores before any printed digits.
+
+**private protected access modifier**
+
+The private protected access modifier enables access for derived classes in the same assembly.
+
+Conditional **ref** expressions
+
+The result of a conditional expression (**?:**) can now be a reference.
 
 
 
