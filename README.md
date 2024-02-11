@@ -8,7 +8,7 @@ C# version 1.0, released with Visual Studio .NET 2002
 
 The major features of C# 1.0 included:
 
-**Classes**
+**Classes** (object oriented programming features)
 
 **Structs**
 
