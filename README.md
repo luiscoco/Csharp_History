@@ -360,3 +360,16 @@ Records
 
 **Attributes on local functions**
 
+C# 9 includes new pattern matching improvements:
+
+**Type patterns** match an object matches a particular type
+
+**Parenthesized patterns** enforce or emphasize the precedence of pattern combinations
+
+**Conjunctive and patterns** require both patterns to match
+
+**Disjunctive or patterns** require either pattern to match
+
+**Negated not patterns** require that a pattern doesn't match
+
+**Relational patterns** require the input be less than, greater than, less than or equal, or greater than or equal to a given constant.
