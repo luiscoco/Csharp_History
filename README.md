@@ -2,6 +2,10 @@
 
 https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
+## Summary
+
+C# Keyword: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
+
 ## 1. C# Version 1.0
 
 C# version 1.0, released with Visual Studio .NET 2002
