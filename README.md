@@ -242,7 +242,39 @@ Conditional **ref** expressions
 
 The result of a conditional expression (**?:**) can now be a reference.
 
+## 11. C# Version 7.3
 
+Released May, 2018
+
+The following new features support the theme of better performance for safe code:
+
+You can access fixed fields without pinning
+
+You can reassign ref local variables
+
+You can use initializers on stackalloc arrays
+
+You can use fixed statements with any type that supports a pattern
+
+You can use more generic constraints
+
+The following enhancements were made to existing features:
+
+You can test == and != with tuple types
+
+You can use expression variables in more locations
+
+You may attach attributes to the backing field of auto-implemented properties
+
+Method resolution when arguments differ by in has been improved.
+
+Overload resolution now has fewer ambiguous cases
+
+The new compiler options are:
+
+-publicsign to enable Open Source Software (OSS) signing of assemblies
+
+-pathmap to provide a mapping for source directories
 
 
 
