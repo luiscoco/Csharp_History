@@ -276,5 +276,43 @@ The new compiler options are:
 
 -pathmap to provide a mapping for source directories
 
+## 12. C# Version 8.0
 
+Released September, 2019
+
+C# 8.0 adds the following features and enhancements to the C# language:
+
+Readonly members
+
+Default interface methods
+
+Pattern matching enhancements:
+
+Switch expressions
+
+Property patterns
+
+Tuple patterns
+
+Positional patterns
+
+Using declarations
+
+Static local functions
+
+Disposable ref structs
+
+Nullable reference types
+
+Asynchronous streams
+
+Indices and ranges
+
+Null-coalescing assignment
+
+Unmanaged constructed types
+
+Stackalloc in nested expressions
+
+Enhancement of interpolated verbatim strings
 
