@@ -318,4 +318,45 @@ Pattern matching enhancements:
 
 ## 13. C# Version 9.0
 
+Released November, 2020
+
+C# 9 was released with .NET 5
+
+It contains the following new and enhanced features:
+
+Records
+
+**Init only setters**
+
+**Top-level statements**
+
+**Pattern matching enhancements: relational patterns and logical patterns**
+
+**Performance and interop**
+
+**Native sized integers**
+
+**Function pointers**
+
+**Suppress emitting localsinit flag**
+
+**Module initializers**
+
+**New features for partial methods**
+
+**Fit and finish features**
+
+**Target-typed new expressions**
+
+**static anonymous functions**
+
+**Target-typed conditional expressions**
+
+**Covariant return types**
+
+**Extension GetEnumerator support for foreach loops**
+
+**Lambda discard parameters**
+
+**Attributes on local functions**
 
