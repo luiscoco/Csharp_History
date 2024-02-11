@@ -373,3 +373,75 @@ C# 9 includes new pattern matching improvements:
 **Negated not patterns** require that a pattern doesn't match
 
 **Relational patterns** require the input be less than, greater than, less than or equal, or greater than or equal to a given constant.
+
+## 14. C# Version 10.0
+
+Released November, 2021
+
+C# 10 adds the following features and enhancements to the C# language:
+
+**Record structs**
+
+**Improvements of structure types**
+
+**Interpolated string handlers**
+
+**global using directives**
+
+**File-scoped namespace declaration**
+
+**Extended property patterns**
+
+**Improvements on lambda expressions**
+
+**Allow const interpolated strings**
+
+**Record types can seal ToString()**
+
+**Improved definite assignment**
+
+**Allow both assignment and declaration in the same deconstruction**
+
+**Allow AsyncMethodBuilder attribute on methods**
+
+**CallerArgumentExpression attribute**
+
+**Enhanced #line pragma**
+
+## 15. C# Version 11.0
+
+Released November, 2022
+
+The following features were added in C# 11:
+
+**Raw string literals**
+
+**Generic math support**
+
+**Generic attributes**
+
+**UTF-8 string literals**
+
+**Newlines in string interpolation expressions**
+
+**List patterns**
+
+**File-local types**
+
+**Required members**
+
+**Auto-default structs**
+
+**Pattern match Span<char> on a constant string**
+
+**Extended nameof scope**
+
+**Numeric IntPtr**
+
+**ref fields and scoped ref**
+
+**Improved method group conversion to delegate**
+
+**Warning wave 7**
+
+
