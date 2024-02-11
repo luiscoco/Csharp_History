@@ -86,4 +86,17 @@ Let's take a look at some major features in this version:
 
 **Object and collection initializers**
 
+## 5. C# Version 4.0
+
+C# version 4.0, released with Visual Studio 2010
+
+This version introduced some interesting new features:
+
+**Dynamic binding**
+
+**Named/optional arguments**
+
+**Generic covariant and contravariant**
+
+**Embedded interop types**
 
