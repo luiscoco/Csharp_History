@@ -58,5 +58,30 @@ Other C# 2.0 features added capabilities to existing features:
 
 **Delegate inference**
 
+## 4. C# Version 3.0
+
+C# version 3.0 came in late 2007, along with Visual Studio 2008, though the full boat of language features would actually come with .NET Framework version 3.5.
+
+Let's take a look at some major features in this version:
+
+**Language-Integrated Query (LINQ)**
+
+**Auto-implemented properties**
+
+**Anonymous types**
+
+**Query expressions**
+
+**Lambda expressions**
+
+**Expression trees**
+
+**Extension methods**
+
+**Implicitly typed local variables**
+
+**Partial methods**
+
+**Object and collection initializers**
 
 
