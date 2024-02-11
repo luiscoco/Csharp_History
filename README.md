@@ -4,6 +4,10 @@ https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
 ## Summary
 
+C# Value Types: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
+
+C# Reference Types: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
+
 C# Keyword: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
 
 ## 1. C# Version 1.0
