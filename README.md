@@ -62,6 +62,8 @@ Other C# 2.0 features added capabilities to existing features:
 
 C# version 3.0 came in late 2007, along with Visual Studio 2008, though the full boat of language features would actually come with .NET Framework version 3.5.
 
+C# 3.0 had begun to lay the groundwork for turning C# into a **hybrid Object-Oriented / Functional language**.
+
 Let's take a look at some major features in this version:
 
 **Language-Integrated Query (LINQ)**
