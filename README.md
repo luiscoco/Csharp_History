@@ -4,19 +4,19 @@ https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
 ## Summary
 
-C# Value Types: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
+**C# Value Types**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
 
-C# Reference Types: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
+**C# Reference Types**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
 
-C# Keyword: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
+**C# Keyword**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
 
-C# Operators and expressions: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+**C# Operators and expressions**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
 
-C# Statements: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations
+**C# Statements**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations
 
-C# Special characters: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/
+**C# Special characters**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/
 
-C# Attributes: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/global
+**C# Attributes**: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/global
 
 ## 1. C# Version 1.0
 
