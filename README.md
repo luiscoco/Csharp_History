@@ -130,4 +130,63 @@ Here's the major features list:
 
 **Code Project: Caller Info Attributes in C# 5.0**
 
+## 7. C# Version 6.0
+
+Version 6.0, released with Visual Studio 2015
+
+Here are some of them:
+
+**Static imports**
+
+**Exception filters**
+
+**Auto-property initializers**
+
+**Expression bodied members**
+
+**Null propagator**
+
+**String interpolation**
+
+**nameof operator**
+
+Other new features include:
+
+**Index initializers**
+
+**Await in catch/finally blocks**
+
+**Default values for getter-only properties**
+
+## 8. C# Version 7.0
+
+C# version 7.0 was released with Visual Studio 2017
+
+Here are some of the new features:
+
+**Out variables**
+
+**Tuples and deconstruction**
+
+**Pattern matching**
+
+**Local functions**
+
+**Expanded expression bodied members**
+
+**Ref locals**
+
+**Ref returns**
+
+Other features included:
+
+**Discards**
+
+**Binary Literals and Digit Separators**
+
+**Throw expressions**
+
+
+
+
 
