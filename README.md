@@ -186,6 +186,24 @@ Other features included:
 
 **Throw expressions**
 
+## 9. C# Version 7.1
+
+Released August, 2017
+
+The new language features in this release are:
+
+**async Main method**: The entry point for an application can have the async modifier
+
+**default literal expressions**: You can use default literal expressions in default value expressions when the target type can be inferred
+
+**Inferred tuple element names**: The names of tuple elements can be inferred from tuple initialization in many cases
+
+**Pattern matching on generic type parameters**: You can use pattern match expressions on variables whose type is a generic type parameter
+
+Finally, the compiler has two options -refout and -refonly that control reference assembly generation
+
+
+
 
 
 
