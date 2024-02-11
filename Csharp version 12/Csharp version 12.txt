@@ -1,0 +1,39 @@
+Primary constructors:
+
+In C# version 12, the concept of primary constructors was introduced as a way to streamline the definition of constructors and the initialization of properties in classes and records. This feature allows you to define a constructor and initialize properties directly in the class or record declaration, reducing the amount of boilerplate code you need to write.
+
+Here's a simple example to illustrate how primary constructors work in C# 12:
+
+Without Primary Constructor (Before C# 12)
+
+```csharp
+public class Person
+{
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+
+    public Person(string firstName, string lastName)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+    }
+}
+```
+
+With Primary Constructor (C# 12)
+
+```csharp
+public class Person(string firstName, string lastName)
+{
+    public string FirstName { get; } = firstName;
+    public string LastName { get; } = lastName;
+}
+
+In this example, the Person class is defined with a primary constructor that takes two parameters: firstName and lastName. These parameters are used to initialize the FirstName and LastName properties directly. Notice how the primary constructor syntax reduces the amount of code required to achieve the same functionality.
+
+Key points about primary constructors in C# 12:
+
+They allow for more concise and readable class and record definitions.
+The parameters of the primary constructor are available throughout the class or record, enabling direct property initialization.
+Properties can be made immutable more easily (using { get; } for read-only properties) since they can be initialized directly from constructor parameters.
+This feature enhances the language's capability to define data-centric types more succinctly, aligning with modern programming practices that favor immutability and data encapsulation.
