@@ -282,37 +282,40 @@ Released September, 2019
 
 C# 8.0 adds the following features and enhancements to the C# language:
 
-Readonly members
+**Readonly members**
 
-Default interface methods
+**Default interface methods**
 
 Pattern matching enhancements:
 
-Switch expressions
+**Switch expressions**
 
-Property patterns
+**Property patterns**
 
-Tuple patterns
+**Tuple patterns**
 
-Positional patterns
+**Positional patterns**
 
-Using declarations
+**Using declarations**
 
-Static local functions
+**Static local functions**
 
-Disposable ref structs
+**Disposable ref structs**
 
-Nullable reference types
+**Nullable reference types**
 
-Asynchronous streams
+**Asynchronous streams**
 
-Indices and ranges
+**Indices and ranges**
 
-Null-coalescing assignment
+**Null-coalescing assignment**
 
-Unmanaged constructed types
+**Unmanaged constructed types**
 
-Stackalloc in nested expressions
+**Stackalloc in nested expressions**
 
-Enhancement of interpolated verbatim strings
+**Enhancement of interpolated verbatim strings**
+
+## 13. C# Version 9.0
+
 
