@@ -14,7 +14,9 @@ C# Operators and expressions: https://learn.microsoft.com/en-us/dotnet/csharp/la
 
 C# Statements: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations
 
-C# 
+C# Special characters: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/
+
+C# Attributes: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/global
 
 ## 1. C# Version 1.0
 
