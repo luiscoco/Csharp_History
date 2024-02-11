@@ -116,3 +116,18 @@ This version introduced some interesting new features:
 
 **Embedded interop types**
 
+## 6. C# Version 5.0
+
+C# version 5.0, released with Visual Studio 2012
+
+Nearly all of the effort for that version went into another groundbreaking language concept: the **async** and **await** model for asynchronous programming
+
+Here's the major features list:
+
+**Asynchronous members**
+
+**Caller info attributes**
+
+**Code Project: Caller Info Attributes in C# 5.0**
+
+
