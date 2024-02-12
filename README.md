@@ -430,11 +430,11 @@ The following features were added in C# 11:
 
 **Required members**
 
-**Auto-default structs**
+**Auto-default structs** (see also this repo https://github.com/luiscoco/Csharp11_Auto-default-structs)
 
 **Pattern match Span<char> on a constant string**
 
-**Extended nameof scope**
+**Extended nameof scope** (see also this repo https://github.com/luiscoco/Csharp11_extended-nameof-scope)
 
 **Numeric IntPtr**
 
