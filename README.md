@@ -426,7 +426,7 @@ The following features were added in C# 11:
 
 **List patterns**
 
-**File-local types**
+**File-local types** (see also this repo https://github.com/luiscoco/Csharp11_File-local-types)
 
 **Required members**
 
