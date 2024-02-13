@@ -28,7 +28,7 @@ name it (e.g., example.c), and click Add. Despite the extension, you can write C
 
 In your new C file (example.c), add the provided C code:
 
-```
+```c
 #include "pch.h"
 
 __declspec(dllexport) int add(int a, int b) {
