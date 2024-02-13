@@ -38,6 +38,5 @@ __declspec(dllexport) int add(int a, int b) {
 
 **VERY IMPORTANT**:
 
-Ensure your project properties are set for C compilation. You can check or change this by going to the project's **Properties -> C/C++ -> Advanced -> Compile As**,
-
+Ensure your project properties are set for C compilation. You can check or change this by going to the project's **Properties -> C/C++ -> Advanced -> Compile As**
 and select Compile as **C Code (/TC)**.
