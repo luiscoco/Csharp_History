@@ -324,7 +324,7 @@ C# 9 was released with .NET 5
 
 It contains the following new and enhanced features:
 
-Records
+**Records**
 
 **Init only setters**
 
